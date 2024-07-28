@@ -1,0 +1,314 @@
+### Manifesto of the Democratic League
+
+#### Introduction
+This text aims to express the theoretical and practical program of the Democratic League (DL) to publicize it and encourage each reader to join.  
+[Chapter 1](#chapter-1-mission-and-vision-of-the-democratic-league) presents the mission and vision of the DL.  
+[Chapter 2](#chapter-2-preliminary-responses-to-some-criticisms) lists criticisms and responses to these criticisms; it can be skimmed during a first reading.  
+[Chapter 3](#chapter-3-implementation-of-liquid-democracy) presents a method to gradually transition from current systems to the liquid democracy system.  
+[Chapter 4](#chapter-4-proposed-decision-making-process-in-liquid-democracy) introduces an example of a decision-making process.  
+[Chapter 5](#chapter-5-how-to-participate-in-the-democratic-league) details how you can participate.
+
+---
+
+#### Chapter 1. Mission and Vision of the Democratic League
+
+##### 1.1 Mission: Promote a System of Liquid Democracy
+The mission of the Democratic League is to promote and implement a system of liquid democracy. This system combines elements of direct democracy and representative democracy, allowing citizens to participate directly in political decisions or delegate their voting power to trusted representatives, based on their preferences and expertise. It is important to note that in liquid democracy, citizens can delegate their vote for a specific area to someone and revoke this delegation at any time.
+
+##### 1.2 Vision: A Socially Juster World through Liquid Democracy
+The League firmly believes that a socially juster world where people can emancipate themselves is possible by replacing traditional representative democracy with a system of liquid democracy. This system would allow for increased citizen participation, better representation of popular interests, and strengthened democratic engagement and accountability.
+
+---
+
+#### Chapter 2. Preliminary Responses to Some Criticisms
+
+##### 2.1 Complexity and Accessibility
+**Criticism 1:** Liquid democracy may be too complex for the majority of citizens, requiring a high level of political and technical understanding.
+
+**Response 1:** Although liquid democracy may seem complex at first glance, simplified platforms will facilitate citizen participation. Using these platforms will be no more difficult than liking a post on social media. Citizens will be able to delegate and revoke their votes with a few clicks.
+
+**Criticism 2:** How can we ensure that the platforms remain secure and protected against cyberattacks?
+
+**Response 2:** The security of the simplified interface of liquid democracy is a top priority. This is why the first project of the Democratic League (DL) will be to specify these platforms and create an open-source version. By choosing to develop an open-source solution, we ensure that transparency and security are integrated from the outset.
+
+The advantages of an open-source platform include:
+- **Code Transparency:** The source code will be accessible to everyone, allowing developers and security experts to examine it, identify, and correct potential vulnerabilities.
+- **Community Collaboration:** A large community of developers and security researchers can contribute to the ongoing improvement and security of the platform.
+- **Security Audits:** Regular security audits can be conducted by independent third parties to ensure that the platform remains protected against cyberattacks.
+- **Threat Responsiveness:** Thanks to an active community, emerging threats can be quickly identified and corrected, ensuring a rapid response to new vulnerabilities.
+- **Trust and Adoption:** Transparency and open collaboration reinforce user trust and encourage wider adoption.
+
+By creating an open-source version of the platform, we guarantee that best practices in security are followed and that the platform benefits from continuous support and vigilance from the global community of developers and security experts.
+
+##### 2.2 Risk of Manipulation and Populism
+**Criticism 1:** The power to delegate and revoke votes could be exploited by populist figures or pressure groups to manipulate decisions.
+
+**Response 1:** Delegation is an essential aspect of liquid democracy because it is impractical for citizens to vote on every political decision, from the micro-local level (e.g., building syndicate) to the international level. This would mean voting constantly, which is unrealistic.
+
+However, unlike current systems, liquid democracy allows citizens to revoke their delegation at any time. This means that if a person or group attempts to manipulate decisions or deceive their electorate, citizens can immediately withdraw their support and delegate their vote to another, more trustworthy person. This mechanism provides an immediate and effective sanction against manipulation and abuse of power.
+
+Additionally, this system also holds voters accountable, as they must monitor their delegates' actions and respond accordingly. If manipulation occurs and is not corrected, the responsibility lies directly with the voters.
+
+**Criticism 2:** Could the transparency of votes lead to social pressure or reprisals against those who vote differently from the majority?
+
+**Response 2:** The transparency of votes in liquid democracy allows for greater accountability and a better understanding of political decisions. However, it is essential to ensure that this transparency does not lead to social pressure or reprisals against those who vote differently from the majority. Here are the key points to address this criticism:
+
+- **Futility of Social Pressure:** In a democratic system, decisions are made by the majority. Therefore, those who vote differently do not need to be pressured since the majority vote is sufficient for a decision to be adopted. Diversity of opinion is an integral part of the democratic process.
+- **Sanctions against Pressure and Reprisals:** Social pressure and reprisals can be severely penalized. A strict legal framework and measures to protect civil rights must be implemented to prevent and punish any form of coercion or reprisals against voters.
+- **Encouragement of Tolerance and Respect:** It is possible to promote a culture of tolerance and respect for divergent opinions through civic education programs and by raising awareness among citizens about the importance of diversity of opinion and constructive debate.
+- **Reporting and Protection Mechanisms:** The implementation of mechanisms allowing citizens to anonymously report pressure or reprisals, providing legal protections and support to victims of such actions, will help combat these abuses.
+
+By ensuring these protections and implementing strict measures against abuse, vote transparency can be maintained without fearing social pressure or reprisals, thereby guaranteeing a healthy and respectful democratic environment.
+
+##### 2.3 Participation and Engagement
+**Criticism 1:** Liquid democracy could suffer from low participation, as is the case for some direct democracy initiatives.
+
+**Response 1:** Liquid democracy offers an innovative solution to the problems of low participation observed in some direct democracy initiatives. By allowing citizens to delegate their vote to trusted individuals for each decision level (local, regional, national, international) and for each specific area, the system ensures more flexible and targeted participation.
+
+Each person can therefore choose to participate only in decisions that interest and concern them directly, while having the option to delegate their vote on other matters to experts or representatives they trust. This flexibility encourages more active participation and engages citizens at different levels according to their interests and expertise.
+
+**Criticism 2:** If citizens massively choose to delegate their votes, how can we avoid general apathy and a loss of political culture?
+
+**Response 2:** We believe, on the contrary, that liquid democracy will involve citizens much more. The current disillusionment and apathy mainly stem from the feeling that the people are not heard and that their opinions are not considered in political decisions. Liquid democracy, by offering a flexible and responsive system, allows for giving citizens a real and influential voice.
+
+- **Increased Participation and Engagement:**
+  - **Active Involvement:** The possibility of delegating or revoking votes motivates citizens to actively engage in decisions that concern them directly. They can choose to participate in debates and votes on topics that interest them the most, while delegating others to trusted representatives.
+  - **Sense of Influence:** Knowing that their voice can have a direct and immediate impact on decisions, citizens are more inclined to engage and participate actively.
+
+- **Reduction of Apathy:**
+  - **Current Disillusionment:** The current feeling of disillusionment is largely due to the perception that traditional institutions do not respond to citizens' needs and concerns. Liquid democracy, by providing platforms where every voice counts and can be heard, addresses this fundamental need.
+  - **System Responsiveness:** The ability to revoke delegations at any time in case of dissatisfaction ensures that citizens feel constantly involved and able to make adjustments in real-time.
+
+- **Strengthening Political Culture:**
+  - **Continuous Education:** By allowing citizens to choose their areas of interest and get involved directly, liquid democracy encourages continuous education and a better understanding of political issues. Citizens educate themselves and stay informed on topics that concern them, thus strengthening their political culture.
+  - **Responsibility:** By delegating their votes, citizens exercise their civic responsibility and learn to assess the skills and positions of potential representatives.
+
+In conclusion, far from leading to general apathy, liquid democracy has the potential to re-engage citizens and revitalize political culture by offering more direct and meaningful ways of participation and influence.
+
+##### 2.4 Technology and Security
+**Criticism 1:** Dependence on technology can pose security, privacy, and access equity (digital divide) issues.
+
+**Response 1:** First, we believe that vote privacy is not necessarily a desirable feature in a liquid democracy system. By allowing transparency on who voted for what, we significantly simplify the technology required to implement this system. This transparency also enhances accountability and trust in the democratic process.
+
+Secondly, regarding access to technology, it is within the reach of almost everyone today to send a message via the internet, even in the poorest countries. If certain areas or populations do not yet have adequate access to technology, we can actively work to bridge this digital divide. Initiatives to improve internet access and digital tools can be implemented to ensure that everyone can fully participate in the democratic process.
+
+By investing in digital infrastructure and ensuring technological education, we can ensure that all citizens, regardless of their socio-economic status, have equitable access to political participation.
+
+**Criticism 2:** How to manage the initial costs of setting up the platforms and educating
+
+ citizens on how they work?
+
+**Response 2:** The Democratic League (DL) aims to mobilize energies and resources around this ambitious project of designing and creating liquid democracy platforms. Here is how we address the initial costs and citizen education:
+
+- **Mobilizing Energies and Resources:** One of the DL's missions is to rally volunteers, technology experts, and engaged citizens to contribute to the design and creation of the platforms. By encouraging voluntary and collaborative participation, we can avoid initial development costs.
+
+- **Peer-to-Peer (P2P) System:**
+  - **Using User Power:** To minimize operating costs, we could use a peer-to-peer (P2P) system that primarily relies on the computing power of users' devices (computers, smartphones, etc.). Such a decentralized system reduces reliance on central servers and thus lowers infrastructure costs.
+  - **Resource Optimization:** Servers will only be used for a minority of critical tasks, ensuring optimal and efficient use of available resources.
+
+- **Education and Evangelism:**
+  - **Citizen Training:** Another key mission of the DL is to educate and train citizens on liquid democracy and how to use its platform. We will organize workshops, seminars, and information campaigns to explain the functioning and benefits of liquid democracy.
+  - **Educational Material:** We will develop accessible educational material, including online tutorials, explanatory videos, and practical guides to help citizens familiarize themselves with the system.
+
+By mobilizing human and financial resources collaboratively and adopting decentralized and efficient technologies, the DL can effectively manage initial costs and ensure a broad and informed adoption of liquid democracy.
+
+##### 2.5 Accountability and Transparency
+**Criticism:** With the possibility of delegating votes, it may be difficult to hold representatives accountable for their actions.
+
+**Response:** Liquid democracy uniquely enhances accountability and transparency. Thanks to vote transparency, citizens can monitor in real-time how their representatives vote on various issues. If a representative starts acting contrary to the interests or expectations of the citizens who delegated their votes, the latter can immediately revoke their delegation and choose a new representative.
+
+This continuous control mechanism ensures that representatives remain aligned with their electors' wishes, under penalty of losing their delegated mandate instantly. Vote transparency facilitates this monitoring and makes the democratic process more dynamic and responsive.
+
+##### 2.6 Scale and Applicability
+**Criticism:** Implementing liquid democracy on a large scale, in countries with millions of citizens, may be impractical.
+
+**Response:** Implementing liquid democracy on a large scale, even in countries with millions of citizens, is entirely feasible. The technology required to support a liquid democracy system is actually less complex and less energy-consuming than that used by social networks like Facebook or Twitter.
+
+These social networks manage billions of active users, handling enormous amounts of data in real-time, including videos, images, and complex interactions. By comparison, managing votes and delegations in a liquid democracy system is much simpler. It primarily involves handling textual information and delegation transactions, which requires less technological resources.
+
+Moreover, modern technologies of cryptography, data storage, and online communication allow for efficient and secure management of interactions among millions of citizens. By using existing infrastructure and relying on proven data management systems, implementing liquid democracy can be not only feasible but also economically viable.
+
+##### 2.7 Comparison with Other Systems
+**Criticism:** Traditional direct or representative democracy systems may be considered sufficient or more tested.
+
+**Response:** The traditional representative democracy system has shown its limits, especially in reducing inequalities between the rich and the poor. Despite decades of implementation, this system has not managed to correct significant economic and social imbalances, often leaving elite interests dominating political decisions to the detriment of the majority.
+
+Regarding direct democracy, it does not really exist on a large scale. In Switzerland, for example, referendums are an example of direct democracy, but they are mainly limited to local or specific political decisions. There is no fully functional direct democracy system at a national or international level capable of managing the complexity and diversity of necessary political decisions.
+
+Liquid democracy offers an innovative solution by combining the advantages of both systems. It allows for direct participation where possible and desirable, while offering the possibility to delegate decisions to trusted representatives for more complex or specialized matters. This flexibility and adaptability make liquid democracy particularly well-suited to address contemporary challenges and build a fairer and more equitable political system.
+
+**Criticism 2:** What evidence exists that liquid democracy is more effective than existing systems?
+
+**Response 2:** There is currently no conclusive empirical evidence demonstrating that liquid democracy is more effective than existing systems, as this model has not yet been implemented on a large scale. However, the Democratic League (DL) firmly believes in its potential to improve citizen participation and make political decisions more representative and responsive.
+
+We acknowledge that implementing liquid democracy is a crucial step to test and evaluate its effectiveness. That is why we will dedicate a specific chapter to the implementation of this system, where we will detail the necessary steps, required resources, and success measures to assess its impact.
+
+##### 2.8 Cost and Administrative Complexity
+**Criticism:** The administrative management of a liquid democracy system could be costly and complex.
+
+**Response:** Implementing fully automated liquid democracy platforms is an order of magnitude less expensive than organizing traditional elections. Current representative democracy systems require considerable expenses to finance electoral campaigns, pay elected officials, and maintain institutions such as national assemblies.
+
+In comparison, a liquid democracy platform can be developed and maintained at a much lower cost. Once implemented, the platforms would allow for automated management of votes and delegations, thus reducing recurring administrative costs. Additionally, modern technology ensures security, transparency, and efficiency in a much more economical manner.
+
+By streamlining and automating processes, liquid democracy can offer a more cost-effective and sustainable solution for managing citizen participation and political decisions.
+
+##### 2.9 Fragmentation and Instability
+**Criticism 1:** The flexibility of liquid democracy, allowing for revoking and delegating votes at any time, could lead to fragmentation and decision-making instability, with frequent changes in majorities and adopted policies.
+
+**Response 1:** First, it is important to emphasize that stability is not always synonymous with relevance or success. Many stable political projects have mobilized colossal resources only to fail or become obsolete. In such cases, early intervention to stop or redirect these projects would have been beneficial. Liquid democracy, with its inherent flexibility, allows for continuous and rapid reevaluation of ongoing projects, thus minimizing unnecessary losses and adjusting policies based on current needs and citizen feedback.
+
+Moreover, for those who fear instability, liquid democracy offers a solution: citizens can delegate their vote to trusted representatives and choose not to revoke this delegation, thus ensuring some continuity in political decisions. This flexibility allows each individual to adapt their level of participation based on their comfort and preferences.
+
+Finally, it is likely that a portion of the population will be opposed to the liquid democracy system. However, it is essential to recognize that not everyone is a democrat, and diversity of opinion is a reality in any society. Liquid democracy aims to provide a framework where citizens have the freedom to choose their mode of participation, while ensuring that decisions best reflect the collective will.
+
+**Criticism 2:** How to manage situations where frequent changes in delegations lead to decision-making blockages?
+
+**Response 2:** We understand that the possibility for citizens to revoke and delegate their votes at any time could lead to rapid fluctuations in voting majorities, potentially destabilizing the decision-making process. However, to avoid such blockages, we will propose several practical measures in the next section of the manifesto:
+
+- **Stabilization Mechanisms (Voting Windows):** Implement stabilization periods during which delegations cannot be modified once voting on a specific issue has begun. This ensures temporary stability for the decision-making process.
+- **Modification Thresholds:** Establish minimum thresholds for delegation changes to take effect. For example, a minimum percentage of changes could be required for new delegations to be considered, thus avoiding minor and frequent fluctuations.
+- **Adaptation Delays:** Institute minimum delays between delegation modifications to prevent too rapid and frequent changes. This allows citizens time to evaluate their decisions and ensures some stability.
+- **Transparency and Communication:** Ensure transparent and continuous communication about ongoing decisions and the impact of delegation changes. Citizens will thus be better informed about the consequences of their actions, promoting more thoughtful decision-making.
+
+These measures will ensure that the liquid democracy system remains flexible and responsive while maintaining the stability and coherence necessary for effective decision-making.
+
+##### 2.10 Expertise and Competence
+**Criticism:** Citizens may not have the necessary expertise to make informed decisions on complex issues, even with the ability to delegate their vote. This could lead to poorly informed decisions or domination by expert voices.
+
+**Response:** When citizens have the choice to vote directly or delegate their vote on decisions that interest them, they also have the opportunity to study the issues in depth and confront divergent viewpoints. This process of active engagement encourages education and training on relevant subjects. By offering everyone the choice to vote, liquid democracy stimulates citizens' interest and participation, encouraging them to educate themselves on matters that concern them.
+
+Moreover, those who feel less competent or informed on certain subjects can delegate their vote to experts or trusted representatives. This ensures that decisions are made with an appropriate level of expertise while giving citizens the chance to educate themselves and participate directly when they feel ready.
+
+##### 2.11 Long-term Commitment
+**Criticism:** The possibility of revoking delegations at any time might discourage representatives from committing to long-term projects that require vision and stability, as their support could disappear quickly.
+
+**Response:** In a liquid democracy system, being a representative is not a remunerated position or formal function. Anyone can, if they accept, represent other citizens. This aspect of the system encourages more dynamic and flexible participation, where vote delegation is based on perceived trust and competence rather than official status.
+
+Regarding long-term commitment to projects, it is crucial to clarify that these commitments should be addressed through well-defined budgets and planning. The concept of budget in liquid democracy allows for structuring projects in a way that guarantees their continuity and stability, even if representatives change.
+
+Long-term projects can
+
+ be planned and budgeted with clear phases, defined objectives, and monitoring and evaluation mechanisms. Citizens can approve multi-year budgets for specific projects, ensuring their funding and progress regardless of delegation changes.
+
+This approach allows combining the flexibility and responsiveness of liquid democracy with the necessity of stability and continuity for long-term projects.
+
+##### 2.12 Equality of Voice and Influence
+**Criticism 1:** The most active and informed citizens could disproportionately accumulate vote delegations, leading to a concentration of power in the hands of a few influential individuals.
+
+**Response 1:** It is indeed possible that the most active and informed citizens could accumulate a disproportionate number of vote delegations, potentially leading to a concentration of power in the hands of a few influential individuals. However, this situation is not necessarily problematic for several reasons:
+
+- **Competence and Trust:** Citizens choose to delegate their votes to individuals they trust and consider competent. The concentration of delegations in the hands of these individuals reflects a recognition of their expertise and decision-making ability.
+- **Control and Accountability:** At any time, citizens can revoke their delegation if the representative no longer meets their expectations or acts inappropriately. This continuous control mechanism ensures that delegated power is exercised responsibly and remains under the direct supervision of citizens.
+- **Dynamism and Adaptability:** Liquid democracy allows for constant reevaluation of representatives. If an individual accumulates too much power or proves ineffective, citizens can redistribute their delegations to other, more competent or aligned representatives.
+- **Diversity and Pluralism:** Even if some individuals accumulate more delegations, the dynamic nature of liquid democracy promotes diversity and pluralism of opinions. Citizens have the freedom to delegate their votes to different representatives for different areas, ensuring a multiplicity of voices and perspectives.
+
+In summary, the temporary concentration of vote delegations in the hands of a few individuals is not necessarily problematic, as it is based on trust and competence and is subject to continuous and dynamic control by all citizens.
+
+**Criticism 2:** How to ensure that citizens receive balanced and unbiased information to educate themselves?
+
+**Response 2:** To ensure that citizens receive balanced and unbiased information, it is essential to recognize that the primary goal of liquid democracy is to serve the majority, not a minority in power. This dynamic naturally encourages the establishment of impartial information organizations and mechanisms.
+
+---
+
+### Chapter 3. Implementation of Liquid Democracy
+
+##### 3.1 Gradual Implementation
+The key element for the gradual implementation of liquid democracy rests on two fundamental principles:
+
+- **Elected Officials' Commitment:** In any election, elected officials who declare themselves members of the Democratic League (DL) commit to applying the results of online votes for their personal decisions. This means that their official votes will reflect the preferences expressed by citizens via the liquid democracy platform.
+- **Publication of Results:** Non-elected DL members publish the online voting results transparently. These publications will allow citizens to see how their opinions and votes are considered and if they are followed by representatives.
+
+##### 3.2 Practical Steps for Implementation
+- **Establishment of Online Voting Platforms:**
+  - **Technological Development:** Design and develop secure, accessible, and user-friendly online voting platforms. Ensure complete transparency of the process and results.
+  - **Testing and Improvements:** Launch pilot projects to test the platform and gather feedback. Use this feedback to refine and improve the platform.
+
+- **Engagement of Candidates and Elected Officials:**
+  - **Recruitment of Members:** Encourage candidates at all levels of elections to join the DL and commit to respecting the results of online votes.
+  - **Awareness Campaigns:** Conduct awareness campaigns to inform voters about the commitment of candidates who are DL members and the importance of their participation in online votes.
+
+- **Implementation of Publication Mechanisms:**
+  - **Regular Publication:** Establish mechanisms for the regular publication of online voting results by non-elected DL members. Use online platforms, social media, and other communication channels to ensure wide dissemination.
+  - **Transparency and Accessibility:** Ensure that online voting results are presented transparently, accessibly, and understandably to all citizens.
+
+- **Citizen Education and Training:**
+  - **Educational Programs:** Develop educational programs to train citizens in using online voting platforms and the importance of their participation.
+  - **Educational Resources:** Provide educational resources such as guides, tutorials, and explanatory videos to help citizens familiarize themselves with the process.
+
+---
+
+### Chapter 4. Proposed Decision-Making Process in Liquid Democracy
+
+##### 4.1 Introduction to the Decision-Making Process
+This decision-making process in liquid democracy is an initial proposal. Like any rule, law, or regulation, it can be modified at any time by a majority vote. The only constitutive law of the Democratic League (DL) is that any law can be changed by a majority vote.
+
+##### 4.2 Steps of the Decision-Making Process
+- **Submission and Support of Proposals:**
+  - **Submission of Proposals:** Any citizen can submit a decision or policy proposal. The proposal must include a clear description, the objectives aimed at, and the potential implications.
+  - **Support for Proposals:** A proposal is scheduled for a vote only when a sufficient number of supports is obtained. Support can be delegated in the same way as a vote.
+  - **Preliminary Analysis:** Before the vote, an evaluation of impacts and a budget estimate necessary for the implementation of the proposal are carried out.
+
+- **Debate and Deliberation:**
+  - **Discussion Space:** A discussion space is opened for each proposal, allowing citizens to discuss, ask questions, and debate the merits and shortcomings of the proposal.
+
+- **Voting and Delegation:**
+  - **Independence of Actions:** Voting and delegation are two independent actions. A citizen can delegate their vote in a domain to a person, but this delegation is done upstream of the votes. If a vote is underway, the delegation only becomes effective after the ongoing vote.
+  - **Direct Vote:** Citizens can choose to vote directly on each proposal.
+  - **Vote Delegation:** Citizens can also delegate their vote to a representative of their choice for one or more specific proposals.
+
+- **Counting and Publication of Results:**
+  - **Vote Counting:** At the close of the voting period, votes are counted transparently and securely.
+  - **Publication of Results:** The results are published in an accessible manner to all citizens.
+
+- **Implementation and Monitoring:**
+  - **Implementation of Decisions:** Adopted decisions are implemented according to the results of online votes.
+  - **Monitoring and Evaluation:** Regular monitoring is carried out to evaluate the impact of the decisions made and to gather feedback from citizens. The results of these evaluations are published to ensure continuous transparency.
+
+This decision-making process in liquid democracy aims to enhance citizen participation, ensure transparent decision-making, and guarantee that citizens' voices are heard and respected. By combining direct voting and delegation mechanisms, we can create a more responsive, inclusive, and accountable democratic system.
+
+---
+
+### Chapter 5. How to Participate in the Democratic League
+
+##### 5.1 Introduction to Participation
+Liquid democracy relies on active participation and citizen engagement. This chapter details the various ways you can get involved and contribute to the implementation and functioning of liquid democracy.
+
+##### 5.2 Becoming a Member of the Democratic League (DL)
+- **Membership by Simple Will:**
+  - **Member Declaration:** Becoming a member of the Democratic League (DL) is done by simply choosing to do so. Anyone can declare themselves a member of the DL. By declaring themselves a member, they express their adherence to the principles stated in this manifesto.
+  - **No Mandatory Participation:** No specific participation is required to be a DL member, except for elected officials. Members are encouraged to participate actively, but this is not an obligation.
+
+##### 5.3 Commitment of DL Elected Officials
+- **Roles and Responsibilities of Elected Officials:**
+  - **Informing Citizens:** DL elected officials commit to informing citizens about ongoing proposals and providing clear and transparent explanations about the issues of each proposal.
+  - **Presenting Citizen Proposals:** Elected officials must present proposals submitted by citizens and bring them before decision-making bodies.
+  - **Voting According to Citizen Results:** Elected officials commit to voting in accordance with the results of citizens' online votes. Their official vote will thus reflect the will expressed by citizens.
+  - **Informing Other Elected Officials:** Elected officials must inform other elected officials (DL members or not) of citizen vote results, ensuring that the popular will is taken into account in political decisions.
+
+##### 5.4 Participating in Votes and Deliberation
+- **Direct Vote and Delegation:**
+  - **Voting Directly:** Participate in online votes on proposals and important decisions. Every vote counts and helps shape policies and decisions.
+  - **Vote Delegation:** If you prefer, you can delegate your vote to a trusted representative. This delegation can be done by specific domain and can be revoked at any time. Note that if a vote is underway, the delegation is only effective after that vote.
+
+- **Submitting Proposals:**
+  - **Citizen Proposals:** Submit your own proposals to be reviewed and voted on by the community. A proposal is scheduled for a vote when a sufficient number of supports is obtained. Support for a proposal can also be delegated.
+  - **Preliminary Evaluation:** Once sufficient support is obtained, a preliminary evaluation is carried out to determine the impacts of the proposal and estimate the budget necessary for its implementation.
+
+- **Participating in Discussions:**
+  - **Discussion Spaces:** Engage in discussions and deliberations on proposals. This can be done in the form of public meetings, online debates, or other suitable formats.
+
+##### 5.5 Contributing to Platform Development
+- **Technological Development:** If you have skills in technological development, you can contribute to the development and improvement of the liquid democracy platform. Join the open-source project and participate in the various development phases.
+- **Testing and Feedback:** Participate in pilot projects as a beta tester to test the platform and provide valuable
+
+ feedback. Help identify issues and propose improvements.
+
+##### 5.6 Awareness and Education
+- **Educational Programs:** Contribute to the creation and dissemination of educational programs to train citizens in using the online voting platform and the importance of their participation.
+- **Awareness Campaigns:** Become a DL ambassador by leading awareness campaigns in your community. Organize workshops, seminars, and information sessions to encourage active participation.
+
+---
+
+### Conclusion
+
+Your participation is essential for the success of liquid democracy. Whether by voting directly, delegating your vote, submitting proposals, contributing to technological development, or participating in educational programs, every action counts. Together, we can build a more participatory, transparent, and equitable governance system. If you do not wish to participate, there is no problem... no one is required to be a democrat.
