@@ -7,4 +7,4 @@
 
 [The voting plateform project](https://github.com/ligdem/liquidity)
 
-All documents and information are under the copyleft  license [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/).
+All documents and information are under the copyleft license [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/).
