@@ -120,6 +120,18 @@ Vérification Pair-à-Pair (P2P) : Inspirée par des systèmes comme Liquichain,
 
 En combinant ces méthodes, nous pouvons nous assurer que les votes sont légitimes et qu'il est impossible de créer plusieurs comptes pour manipuler les résultats des votes.
 
+**Critique 4 :** Comment s'assurer qu'il n'y a pas de confusion entre la vie privée et la transparence ? Certaines informations personnelles doivent rester privées et ne pas être révélées dans le processus de vote.
+
+**Réponse 4 :** Dans la démocratie liquide, il est crucial de trouver un équilibre entre transparence et vie privée. La transparence concerne la vérifiabilité du processus de vote, des résultats et des historiques de délégation par le public, mais cela ne signifie pas que les informations personnelles des votants doivent être divulguées. Les mesures clés pour garantir cette distinction incluent :
+
+1. **Transparence des Votes sans Informations Personnelles** : Bien que les résultats des votes et des délégations soient transparents, les informations personnelles des votants (nom, adresse, etc.) resteront privées. L'accent est mis sur les résultats du processus de vote plutôt que sur l'identité des votants.
+
+2. **Anonymisation des Votes** : Les votes peuvent être anonymisés à l'aide de techniques cryptographiques, garantissant que l'identité du votant est protégée tout en maintenant l'intégrité et la vérifiabilité du processus de vote.
+
+3. **Séparation des Données Personnelles et Publiques** : Le système séparera clairement les données personnelles des données de vote. Les données personnelles resteront protégées et inaccessibles au public, tandis que les informations de vote et de délégation seront rendues publiques sous forme agrégée ou anonymisée.
+
+En appliquant ces mesures, nous pouvons garantir que le processus démocratique reste transparent, tout en protégeant pleinement la vie privée des votants.
+
 ##### 2.5 Responsabilité et Transparence
 **Critique :** Avec la possibilité de déléguer des votes, il peut être difficile de tenir les représentants responsables de leurs actions.
 
