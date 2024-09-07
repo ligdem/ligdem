@@ -87,9 +87,7 @@ Secondly, regarding access to technology, it is within the reach of almost every
 
 By investing in digital infrastructure and ensuring technological education, we can ensure that all citizens, regardless of their socio-economic status, have equitable access to political participation.
 
-**Criticism 2:** How to manage the initial costs of setting up the platforms and educating
-
- citizens on how they work?
+**Criticism 2:** How to manage the initial costs of setting up the platforms and educatingcitizens on how they work?
 
 **Response 2:** The Democratic League (DL) aims to mobilize energies and resources around this ambitious project of designing and creating liquid democracy platforms. Here is how we address the initial costs and citizen education:
 
@@ -104,6 +102,18 @@ By investing in digital infrastructure and ensuring technological education, we 
   - **Educational Material:** We will develop accessible educational material, including online tutorials, explanatory videos, and practical guides to help citizens familiarize themselves with the system.
 
 By mobilizing human and financial resources collaboratively and adopting decentralized and efficient technologies, the DL can effectively manage initial costs and ensure a broad and informed adoption of liquid democracy.
+
+**Criticism 3:** How can we ensure that votes are cast by real individuals who are eligible to vote within a specific country, region, or project, considering the risk of fake or duplicate accounts?
+
+**Response 3:** Ensuring that votes come from real and eligible individuals is a crucial aspect of a secure and reliable voting system. To address this, liquid democracy platforms can implement robust identity verification systems, including:
+
+Government-backed Identity Verification: Integration with national databases to verify a voter's identity and eligibility based on their citizenship or residency status, preventing non-eligible individuals from voting in specific regions or projects.
+
+Blockchain-based Identity Verification: Utilizing cryptographic methods such as zero-knowledge proofs, which allow a person to prove their identity without revealing personal details, ensuring voter authenticity without compromising privacy.
+
+Multi-factor Authentication: Using methods such as biometric authentication (fingerprints or facial recognition) or secure tokens (sent to a mobile device or email) to verify that each vote is cast by the correct individual.
+
+Peer-to-Peer Verification (P2P): Inspired by systems like Liquichain, identity verification can be achieved through a social network of trusted connections. A person’s uniqueness and validity within the network are verified by other users. Over time, this social verification strengthens the integrity of the voter’s identity by establishing trust through decentralized validation. This approach provides an additional layer of security and ensures that the identity is legitimate without the need for centralized control.
 
 ##### 2.5 Accountability and Transparency
 **Criticism:** With the possibility of delegating votes, it may be difficult to hold representatives accountable for their actions.

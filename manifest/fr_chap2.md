@@ -106,6 +106,20 @@ En investissant dans l'infrastructure numérique et en assurant l'éducation tec
 
 En mobilisant les ressources humaines et financières de manière collaborative et en adoptant des technologies décentralisées et efficientes, la LD peut gérer efficacement les coûts initiaux et assurer une adoption large et informée de la démocratie liquide.
 
+**Critique 3 :** Comment s'assurer que les votes proviennent de personnes réelles et éligibles dans un pays, une région ou un projet spécifique, étant donné le risque de comptes fictifs ou en double ?
+
+**Réponse 3 :** Garantir que les votes proviennent de personnes réelles et éligibles est un aspect essentiel d'un système de vote sécurisé et fiable. Pour répondre à ce défi, les plateformes de démocratie liquide peuvent mettre en place des systèmes robustes de vérification d'identité, tels que :
+
+Vérification d'identité soutenue par le gouvernement : Intégration avec des bases de données nationales pour vérifier l'identité et l'éligibilité des votants en fonction de leur citoyenneté ou de leur statut de résident, empêchant ainsi les personnes non éligibles de voter dans des régions ou projets spécifiques.
+
+Vérification d'identité basée sur la blockchain : Utilisation de méthodes cryptographiques comme les preuves à divulgation nulle de connaissance (zero-knowledge proofs), qui permettent à une personne de prouver son identité sans révéler de détails personnels, garantissant ainsi l'authenticité du votant sans compromettre la confidentialité.
+
+Authentification à plusieurs facteurs : Utilisation de méthodes telles que l'authentification biométrique (empreintes digitales ou reconnaissance faciale) ou des jetons sécurisés (envoyés sur un appareil mobile ou par e-mail) pour vérifier que chaque vote est bien exprimé par la bonne personne.
+
+Vérification Pair-à-Pair (P2P) : Inspirée par des systèmes comme Liquichain, la vérification de l'identité peut être réalisée via un réseau social de connexions de confiance. L'unicité et la validité d'une personne dans le réseau sont vérifiées par d'autres utilisateurs. Avec le temps, cette vérification sociale renforce l'intégrité de l'identité du votant en établissant la confiance grâce à une validation décentralisée. Cette approche offre une couche supplémentaire de sécurité et garantit que l'identité est légitime sans avoir besoin d'un contrôle centralisé.
+
+En combinant ces méthodes, nous pouvons nous assurer que les votes sont légitimes et qu'il est impossible de créer plusieurs comptes pour manipuler les résultats des votes.
+
 ##### 2.5 Responsabilité et Transparence
 **Critique :** Avec la possibilité de déléguer des votes, il peut être difficile de tenir les représentants responsables de leurs actions.
 
