@@ -123,17 +123,24 @@ Ces réseaux sociaux gèrent des milliards d'utilisateurs actifs, traitant d'én
 De plus, les technologies modernes de cryptographie, stockage de données et de communication en ligne permettent de gérer efficacement et de manière sécurisée les interactions de millions de citoyens. En utilisant des infrastructures déjà existantes et en s'appuyant sur des systèmes de gestion de données éprouvés, la mise en œuvre de la démocratie liquide peut être non seulement faisable mais également économiquement viable.
 
 ##### 2.7 Comparaison avec d'autres Systèmes
-**Critique :** Les systèmes de démocratie directe ou représentative traditionnels peuvent être considérés comme suffisants ou plus éprouvés.
 
-**Réponse :** Le système de démocratie représentative traditionnel a montré ses limites, notamment en ce qui concerne la réduction des inégalités entre les riches et les pauvres. Malgré des décennies de mise en œuvre, ce système n'a pas réussi à corriger les déséquilibres économiques et sociaux significatifs, laissant souvent les intérêts des élites dominer les décisions politiques au détriment de la majorité.
+**Critique 1 :** Quels sont les avantages de la démocratie liquide par rapport aux systèmes de démocratie directe ou représentative traditionnels ?
+
+**Réponse 1 :** La démocratie liquide (DL) ne se contente pas de combler la déconnexion entre les élus et le public. Dans la démocratie représentative, les élus prennent des décisions en se basant sur leur expérience et les informations dont ils disposent, mais cela ne reflète pas toujours l'expertise spécifique requise pour chaque sujet. Avec la DL, les citoyens ont la possibilité de déléguer leur vote sur des sujets spécifiques à des experts qui sont mieux à même de proposer des solutions rationnelles et bien informées.
+
+Cette flexibilité permet que les décisions ne soient pas seulement prises par ceux qui ont le pouvoir politique, mais aussi par ceux qui possèdent les connaissances et l'expérience adéquates. Contrairement à la démocratie directe, qui peut accabler les citoyens par la quantité de décisions à prendre, la DL offre une approche plus pragmatique en permettant aux citoyens de participer directement lorsqu'ils se sentent compétents et de déléguer leur vote lorsqu'ils font confiance à une personne plus qualifiée. Ce système minimise également les risques de lobbying et de concentration du pouvoir, car les délégations sont dynamiques et peuvent être modifiées à tout moment.
+
+**Critique 2 :** Les systèmes de démocratie directe ou représentative traditionnels peuvent être considérés comme suffisants ou plus éprouvés.
+
+**Réponse 2 :** Le système de démocratie représentative traditionnel a montré ses limites, notamment en ce qui concerne la réduction des inégalités entre les riches et les pauvres. Malgré des décennies de mise en œuvre, ce système n'a pas réussi à corriger les déséquilibres économiques et sociaux significatifs, laissant souvent les intérêts des élites dominer les décisions politiques au détriment de la majorité.
 
 En ce qui concerne la démocratie directe, elle n'existe pas réellement à grande échelle. En Suisse, par exemple, les votations sont un exemple de démocratie directe, mais elles se limitent principalement à des décisions politiques locales ou spécifiques. Il n'existe pas de système de démocratie directe pleinement fonctionnel à un niveau national ou international, capable de gérer la complexité et la diversité des décisions politiques nécessaires.
 
 La démocratie liquide offre une solution innovante en combinant les avantages des deux systèmes. Elle permet une participation directe où c'est possible et souhaitable, tout en offrant la possibilité de déléguer des décisions à des représentants de confiance pour des questions plus complexes ou spécialisées. Cette flexibilité et cette adaptabilité rendent la démocratie liquide particulièrement bien adaptée pour répondre aux défis contemporains et pour construire un système politique plus juste et plus équitable.
 
-**Critique 2 :** Quelles preuves existent que la démocratie liquide est plus efficace que les systèmes existants ?
+**Critique 3 :** Quelles preuves existent que la démocratie liquide est plus efficace que les systèmes existants ?
 
-**Réponse 2 :** Il n'existe actuellement aucune preuve empirique concluante démontrant que la démocratie liquide est plus efficace que les systèmes existants, car ce modèle n'a pas encore été mis en place à grande échelle. Cependant, la Ligue Démocratique (LD) croit fermement en son potentiel à améliorer la participation citoyenne et à rendre les décisions politiques plus représentatives et réactives.
+**Réponse 3 :** Il n'existe actuellement aucune preuve empirique concluante démontrant que la démocratie liquide est plus efficace que les systèmes existants, car ce modèle n'a pas encore été mis en place à grande échelle. Cependant, la Ligue Démocratique (LD) croit fermement en son potentiel à améliorer la participation citoyenne et à rendre les décisions politiques plus représentatives et réactives.
 
 Nous reconnaissons que la mise en place de la démocratie liquide est une étape cruciale pour tester et évaluer son efficacité. C'est pourquoi nous consacrerons un chapitre spécifique à la mise en place de ce système, où nous détaillerons les étapes nécessaires, les ressources requises, et les mesures de succès pour évaluer son impact.
 

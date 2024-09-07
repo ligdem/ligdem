@@ -122,17 +122,24 @@ These social networks manage billions of active users, handling enormous amounts
 Moreover, modern technologies of cryptography, data storage, and online communication allow for efficient and secure management of interactions among millions of citizens. By using existing infrastructure and relying on proven data management systems, implementing liquid democracy can be not only feasible but also economically viable.
 
 ##### 2.7 Comparison with Other Systems
-**Criticism:** Traditional direct or representative democracy systems may be considered sufficient or more tested.
 
-**Response:** The traditional representative democracy system has shown its limits, especially in reducing inequalities between the rich and the poor. Despite decades of implementation, this system has not managed to correct significant economic and social imbalances, often leaving elite interests dominating political decisions to the detriment of the majority.
+**Criticism 1:** What are the advantages of liquid democracy compared to traditional direct or representative democracy systems?
+
+**Response 1:** Liquid democracy (LD) goes beyond bridging the gap between elected officials and the public. In representative democracy, elected officials make decisions based on their experience and the information available to them, but this doesn’t always reflect the specific expertise required for every issue. LD allows citizens to delegate their vote on specific topics to experts who are better equipped to propose rational, well-informed solutions.
+
+This flexibility ensures that decisions are made not only by those with the political power to vote but also by individuals with the right knowledge and experience. Unlike direct democracy, which can overwhelm citizens with constant decision-making, LD offers a more practical approach by allowing citizens to participate directly when they feel knowledgeable and to delegate when they trust someone better suited to the task. This system also minimizes the risks of lobbying and concentrated power since delegations are dynamic and can be changed at any time.
+
+**Criticism 2:** Traditional direct or representative democracy systems may be considered sufficient or more tested.
+
+**Response 2:** The traditional representative democracy system has shown its limits, especially in reducing inequalities between the rich and the poor. Despite decades of implementation, this system has not managed to correct significant economic and social imbalances, often leaving elite interests dominating political decisions to the detriment of the majority.
 
 Regarding direct democracy, it does not really exist on a large scale. In Switzerland, for example, referendums are an example of direct democracy, but they are mainly limited to local or specific political decisions. There is no fully functional direct democracy system at a national or international level capable of managing the complexity and diversity of necessary political decisions.
 
 Liquid democracy offers an innovative solution by combining the advantages of both systems. It allows for direct participation where possible and desirable, while offering the possibility to delegate decisions to trusted representatives for more complex or specialized matters. This flexibility and adaptability make liquid democracy particularly well-suited to address contemporary challenges and build a fairer and more equitable political system.
 
-**Criticism 2:** What evidence exists that liquid democracy is more effective than existing systems?
+**Criticism 3:** What evidence exists that liquid democracy is more effective than existing systems?
 
-**Response 2:** There is currently no conclusive empirical evidence demonstrating that liquid democracy is more effective than existing systems, as this model has not yet been implemented on a large scale. However, the Democratic League (DL) firmly believes in its potential to improve citizen participation and make political decisions more representative and responsive.
+**Response 3:** There is currently no conclusive empirical evidence demonstrating that liquid democracy is more effective than existing systems, as this model has not yet been implemented on a large scale. However, the Democratic League (DL) firmly believes in its potential to improve citizen participation and make political decisions more representative and responsive.
 
 We acknowledge that implementing liquid democracy is a crucial step to test and evaluate its effectiveness. That is why we will dedicate a specific chapter to the implementation of this system, where we will detail the necessary steps, required resources, and success measures to assess its impact.
 
